@@ -10,6 +10,7 @@ NASA Exoplanet Archive API
 * [здесь указаны все значения, которые можно получить](https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html#sysdata)
 
 * сохраните полученные данные в виде Excel таблицы в формате xlsx
+
 *Подсказка: всего вы должны получить данные примерно по 4500 планетам*
 ## 2 часть
 Microsoft Power BI

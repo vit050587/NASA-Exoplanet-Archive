@@ -1,4 +1,4 @@
-![MarkDown](https://github.com/vit050587/NASA-Exoplanet-Arkhive/blob/master/nasa.png)
+![MarkDown](https://github.com/vit050587/NASA-Exoplanet-Archive/blob/master/nasa.png)
 # Задание
 Используя NASA Exoplanet Archive и его API, выгрузите нужную информацию по экзопланетам. Сохраните ее в виде Excel файла. На основе полученных данных постройте в Microsoft Power BI пару графиков.
 ## 1 часть
